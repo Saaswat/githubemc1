@@ -1,2 +1,7 @@
 Created test1.txt file
+
 cmodified
+
+changed
+hello
+
